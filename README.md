@@ -12,10 +12,9 @@ A collection of useful resources.
 
 
 ## Applied AI
+[**RAG**](/retrieval_augmented_generation/README.md)
 #### Courses
 - Nvidia - [Deploying a Model for Inference at Production Scale](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-03+V1) - MLOps for neural network models using different frameworks (PyTorch, Tensorflow, ...)
-#### Videos
-- [Stanford CS25 - Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg) - highlights the different RAG architectures and regimes
 
 ## Frameworks
 Relevant frameworks are
