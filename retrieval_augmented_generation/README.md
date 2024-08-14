@@ -1,5 +1,7 @@
+![Cheat sheet](/retrieval_augmented_generation/images/rag-cheat-sheet-final.svg)
+
 # Quick links
-- Cheat Sheet - [A Cheat Sheet & Recipes For Building Advanced RAG](https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
+- Cheat sheet - [A Cheat Sheet & Recipes For Building Advanced RAG](https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 
 - Cookbook - OpenAI: [Evaluate RAG with LlamaIndex](https://www.llamaindex.ai/blog/openai-cookbook-evaluating-rag-systems-fe393c61fb93)
 
