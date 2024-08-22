@@ -17,6 +17,20 @@ A collection of useful resources. [This Github repository](https://github.com/lo
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) - provides an excellent overview of what we understand about BERT
 
 
+#### Books
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurélien Géron
+    - 2nd edition pdf [download link](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
+
+- [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+    - 2nd edition pdf [download link](https://www.researchgate.net/profile/Janine-Zitianellis/post/Can_anyone_please_suggest_a_books_on_machine_learning_using_R_Programming/attachment/613a5b83647f3906fc975a71/AS%3A1066204907204608%401631214467436/download/Practical+Statistics+for+Data+Scientists+50%2B+Essential+Concepts+Using+R+and+Python+by+Peter+Bruce%2C+Andrew+Bruce%2C+Peter+Gedeck.pdf)
+
+- [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) by Jay Alammar & Maarten Grootendorst [NOT YET RELEASED]
+
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka_build_12_12_23&a_aid=raschka&a_bid=4c2437a0&chan=mm_github) by Sebastian Raschka [PRE-RELEASE]
+    - [Github](https://github.com/rasbt/LLMs-from-scratch)
+    - [YouTube video](https://www.youtube.com/watch?v=kPGTx4wcm_w) - "Developing an LLM: Building, Training, Finetuning" by Sebastian Raschka. A high-level, no-code overview that explains the development of an LLM, featuring numerous figures from the book 'Build a Large Language Model (From Scratch)', which itself focuses on the underlying code that implements these processes.
+
+
 #### Courses
 - Coursera - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 
@@ -28,7 +42,7 @@ A collection of useful resources. [This Github repository](https://github.com/lo
 <h2 style="text-align: center;">Applied AI</h2>
 <!-- ####################################################################### -->
 
-[**RAG**](/retrieval_augmented_generation/README.md)
+[**RAG folder**](/retrieval_augmented_generation/README.md)
 #### Courses
 - Nvidia - [Deploying a Model for Inference at Production Scale](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-03+V1) - MLOps for neural network models using different frameworks (PyTorch, Tensorflow, ...)
 
