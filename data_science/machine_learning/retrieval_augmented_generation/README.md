@@ -1,3 +1,5 @@
+# RETRIEVAL AUGMENTED GENERATION (RAG)
+
 <!-- ![Cheat sheet](/retrieval_augmented_generation/images/rag-cheat-sheet-final.svg) -->
 ![Cheat sheet](https://d3ddy8balm3goa.cloudfront.net/llamaindex/rag-cheat-sheet-final.svg)
 
@@ -28,6 +30,9 @@
     - illustration and explanation of the 'lost in middle' phenomenon
 
 ## Unread
+
+- Jay Alammar - [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+
 - LlamaIndex blog  - [Introducing RAGs: Your Personalized ChatGPT Experience Over Your Data](https://www.llamaindex.ai/blog/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1)
 
 - LlamaIndex blog  - [RAGArch: Building a No-Code RAG Pipeline Configuration & One-Click RAG Code Generation Tool Powered by LlamaIndex](https://www.llamaindex.ai/blog/ragarch-building-a-no-code-rag-pipeline-configuration-one-click-rag-code-generation-tool-powered-b6e8eeb70089)
