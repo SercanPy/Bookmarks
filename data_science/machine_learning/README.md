@@ -30,11 +30,9 @@
 
 
 ### Books
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurélien Géron
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](/PDFs/Hands%20On%20Machine%20Learning%20-%20Concepts%20Tools%20and%20Techniques%20to%20Build%20Intelligent%20Systems%20-%202nd%20edition.pdf) by Aurélien Géron
+    - [Publisher's page](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
     - 2nd edition pdf [download link](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
-
-- [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
-    - 2nd edition pdf [download link](https://www.researchgate.net/profile/Janine-Zitianellis/post/Can_anyone_please_suggest_a_books_on_machine_learning_using_R_Programming/attachment/613a5b83647f3906fc975a71/AS%3A1066204907204608%401631214467436/download/Practical+Statistics+for+Data+Scientists+50%2B+Essential+Concepts+Using+R+and+Python+by+Peter+Bruce%2C+Andrew+Bruce%2C+Peter+Gedeck.pdf)
 
 - [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) by Jay Alammar & Maarten Grootendorst [NOT YET RELEASED]
 
@@ -58,6 +56,8 @@
 ### Courses
 - Nvidia - [Deploying a Model for Inference at Production Scale](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-03+V1) - MLOps for neural network models using different frameworks (PyTorch, Tensorflow, ...)
 
+### Videos
+- OpenAI developer conference 2024 - [maximising LLM performance](https://youtu.be/ahnGLM-RC1Y?si=1hvPU9h8vhtC67yG) - explanation of when to use prompt engineering, RAG, and/or fine-tuning, and how to evaluate performance.
 
 
 <!-- ####################################################################### -->
