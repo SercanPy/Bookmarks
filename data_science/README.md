@@ -6,6 +6,11 @@ This [Github repository](https://github.com/peggy1502/Amazing-Resources) provide
 - [Machine Learning](/data_science/machine_learning/README.md)
     - [RAG](/data_science/machine_learning/retrieval_augmented_generation/README.md)
 
+## Courses
+- Neo4j - [Neo4j Fundamentals](https://graphacademy.neo4j.com/courses/neo4j-fundamentals/?utm_source=Marketo&utm_medium=Email&utm_campaign=MaSuOB-Global-&utm_content=---&ref=EmailQuickLinks&mkt_tok=NzEwLVJSQy0zMzUAAAGVvPnKaqeSEuvPVVv30eMNI6SVqR4Vfgo2NceMOslYfW1OEZtkHMDn4yB2rwztB0LMevi_K5qG_YSO5CS0dVbV58SxHL1Q8-CQ3RHPU9aT_eiw8I0)
+    - graph theory
+    - graph use cases
+    - Cypher querying
 
 ## Books
 - [Practical Statistics for Data Scientists, 2nd Edition](/PDFs/Practical%20Statistics%20for%20Data%20Scientists%20-%202nd%20edition.pdf) 

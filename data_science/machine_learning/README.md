@@ -56,6 +56,9 @@
 ### Courses
 - Nvidia - [Deploying a Model for Inference at Production Scale](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-03+V1) - MLOps for neural network models using different frameworks (PyTorch, Tensorflow, ...)
 
+- Nvidia - [Generative AI with Diffusion Models](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-14+V1)
+    - **Enrolled**
+
 ### Videos
 - OpenAI developer conference 2024 - [maximising LLM performance](https://youtu.be/ahnGLM-RC1Y?si=1hvPU9h8vhtC67yG) - explanation of when to use prompt engineering, RAG, and/or fine-tuning, and how to evaluate performance.
 
