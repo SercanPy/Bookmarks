@@ -23,6 +23,8 @@
 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) - provides an excellent overview of what we understand about BERT
 
+- [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/) [Advanced]
+
 
 ### Papers
 - 2024 [AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](https://arxiv.org/abs/2404.16873) by Meta Research
@@ -34,7 +36,8 @@
     - [Publisher's page](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
     - 2nd edition pdf [download link](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
 
-- [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) by Jay Alammar & Maarten Grootendorst [NOT YET RELEASED]
+- [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) by Jay Alammar & Maarten Grootendorst
+    - [Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka_build_12_12_23&a_aid=raschka&a_bid=4c2437a0&chan=mm_github) by Sebastian Raschka [PRE-RELEASE]
     - [Github](https://github.com/rasbt/LLMs-from-scratch)
@@ -43,6 +46,8 @@
 
 ### Courses
 - Coursera - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+
+- Coursera - [Generative AI Engineering with LLMs Specialization](https://www.coursera.org/specializations/generative-ai-engineering-with-llms#courses)
 
 - Princeton - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) - useful course material, and offers a sensible schedule/order in which to cover relevant topics.
 
