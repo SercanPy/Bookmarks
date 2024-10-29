@@ -74,6 +74,7 @@
 
 Relevant frameworks are
 - PyTorch (DL)
+    - [snnTorch](https://snntorch.readthedocs.io/en/latest/) - a Spiking Neural Network integration for PyTorch
 - Tensorflow (DL)
 - Keras (DL)
 - LlamaIndex (LLMs)
@@ -81,6 +82,11 @@ Relevant frameworks are
 
 ### Articles
 - PyTorch - [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html?highlight=minute%20blitz) - an official PyTorch tutorial
+
+- LangSmith - [Debugging And Testing LLMs in LangSmith](https://www.datacamp.com/tutorial/introduction-to-langsmith)
+    - "***LangSmith is really just a complex tool for prompt engineering***"
+    - A beginner level demonstration of LLM evaluation.
+    - Demonstrates how to ingest evaluation datasets and use of evaluation metrics to quantify performance.
 
 
 ### Videos
