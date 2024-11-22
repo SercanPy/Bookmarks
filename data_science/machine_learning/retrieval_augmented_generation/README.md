@@ -13,6 +13,10 @@
 
 # Reading list
 ## Read
+- LangChain - Tutorial - [building a Single-task Q&A RAG](https://python.langchain.com/docs/tutorials/rag/)
+    - Well produced, beginner-friendly introduction to using LangChain to build RAG.
+    - No coverage of using LLMs from HuggingFace.
+    - No coverage of using LangSmith to trace logs.
 
 - Pinecone blog - [Retrieval augmented generation](https://www.pinecone.io/learn/retrieval-augmented-generation/)
     - see related resources in [Examples](#examples)
@@ -32,6 +36,8 @@
 ## Unread
 
 - Jay Alammar - [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+
+- LangChain - [Conceptual guide on retrieval](https://python.langchain.com/docs/concepts/retrieval/) - an overview of various retrieval techniques to improve performance
 
 - LlamaIndex blog  - [Introducing RAGs: Your Personalized ChatGPT Experience Over Your Data](https://www.llamaindex.ai/blog/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1)
 
@@ -78,7 +84,9 @@
 
 
 # Examples
+- LangGraph - [RAG](https://github.com/langchain-ai/langgraph/tree/main/examples/rag) - Examples of Adaptive, Agentic, and Corrective variations.
+- LangChain - [how to guides on RAG](https://python.langchain.com/docs/how_to/#qa-with-rag)
+- LangChain - [corrective RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/tutorials/rag-agent-testing-local.ipynb) notebook
 - [Pinecone](https://docs.pinecone.io/examples/notebooks) - notebooks using LangChain framework together with OpenAI models and Pinecone vector DataBase.
     - [Pinecone Github](https://github.com/pinecone-io/examples)
-- LangChain [corrective RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/tutorials/rag-agent-testing-local.ipynb) notebook
 - [AWS SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html) - notebooks using meta LLMs and SageMaker.
