@@ -19,9 +19,7 @@
 - [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/) by Jay Alammar
     - [Github project](https://github.com/jalammar/ecco)
 
-- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258) - surveys a range of topics on foundational models (large langauge models are a large part of them).
-
-- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) - provides an excellent overview of what we understand about BERT
+- [Lil'Log blogs](https://lilianweng.github.io/) by Lilian Weng
 
 - [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/) [Advanced]
 
@@ -30,9 +28,13 @@
 - 2024 [AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](https://arxiv.org/abs/2404.16873) by Meta Research
     - an **unsupervised** approach to generating successful adversarial prompts to enable resilience against jailbreaking attacks.
 
+- 2021 [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258) - surveys a range of topics on foundational models (large langauge models are a large part of them).
+
+- 2020 [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) - provides an excellent overview of what we understand about BERT
+
 
 ### Books
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](/PDFs/Hands%20On%20Machine%20Learning%20-%20Concepts%20Tools%20and%20Techniques%20to%20Build%20Intelligent%20Systems%20-%202nd%20edition.pdf) by Aurélien Géron
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](/PDFs/Hands%20On%20Machine%20Learning%20-%20Concepts%20Tools%20and%20Techniques%20to%20Build%20Intelligent%20Systems%20-%202nd%20edition.pdf) by Aurélien Géron
     - [Publisher's page](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
     - 2nd edition pdf [download link](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
 
@@ -81,17 +83,20 @@ Relevant frameworks are
 - Langchain (LLMs)
 
 ### Articles
-- PyTorch - [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html?highlight=minute%20blitz) - an official PyTorch tutorial
-
 - LangSmith - [Debugging And Testing LLMs in LangSmith](https://www.datacamp.com/tutorial/introduction-to-langsmith)
     - "***LangSmith is really just a complex tool for prompt engineering***"
     - A beginner level demonstration of LLM evaluation.
     - Demonstrates how to ingest evaluation datasets and use of evaluation metrics to quantify performance.
 
+- PyTorch - [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html?highlight=minute%20blitz) - an official PyTorch tutorial
+
 
 ### Videos
 - PyTorch - [tutorial series](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=v9TQt8-wNaTuCdHl) by Partick Loeber
 - PyTorch - [beginner series](https://youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&si=udl48pZgEXcrvsMA) by Brad Heintz
+
+### Courses
+- LangGraph - [Introduction](https://academy.langchain.com/courses/intro-to-langgraph) - a framework for building multi-agent LLM applications.
 
 
 
@@ -102,3 +107,6 @@ Relevant frameworks are
 - Ollama [docker image](https://hub.docker.com/r/ollama/ollama) - allows running of following [models](https://ollama.com/library) from the terminal.
 - [Continue.dev](https://docs.continue.dev/setup/configuration#local-and-offline-configuration) - VS Code extension to run local LLM models for coding.
 - [OpenWebUI](https://docs.openwebui.com/) - an offline UI for using local LLMs.
+- [lobe UI](https://ui.lobehub.com/) - open-source UI component library for building AI Generated Content (AIGC) web apps
+- ChainLit UI - specifically for LLM applications
+- Streamlit UI - suited to data science applications
