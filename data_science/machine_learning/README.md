@@ -60,6 +60,10 @@
 <!-- ####################################################################### -->
 
 [**RAG folder**](/retrieval_augmented_generation/README.md)
+
+### Reading
+- Google's [SynthID](https://deepmind.google/technologies/synthid/) - a **watermarking** tool for models of various modalities to indicate that content was AI generated.
+
 ### Courses
 - Nvidia - [Deploying a Model for Inference at Production Scale](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-03+V1) - MLOps for neural network models using different frameworks (PyTorch, Tensorflow, ...)
 
@@ -68,6 +72,8 @@
 
 ### Videos
 - OpenAI developer conference 2024 - [maximising LLM performance](https://youtu.be/ahnGLM-RC1Y?si=1hvPU9h8vhtC67yG) - explanation of when to use prompt engineering, RAG, and/or fine-tuning, and how to evaluate performance.
+
+- Crypto 2023 - [Neurocryptography](https://www.youtube.com/watch?v=3o2LU59ZYFI) - Scott Aaronson presents work on distinguishing AI generated content, such as **watermarking**.
 
 
 <!-- ####################################################################### -->
