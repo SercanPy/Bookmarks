@@ -6,6 +6,13 @@ This [Github repository](https://github.com/peggy1502/Amazing-Resources) provide
 - [Machine Learning](/data_science/machine_learning/README.md)
     - [RAG](/data_science/machine_learning/retrieval_augmented_generation/README.md)
 
+## Reading
+ - DataCamp - [Introduction to time-series forecasting](https://www.datacamp.com/tutorial/tutorial-time-series-forecasting)
+    - Entry-level
+    - Covers statistical and classical machine learning techniques
+    - Deepl Learning / Neural Networks are out-of-scope
+    - Focus on univariate time series data
+
 ## Courses
 - Neo4j - [Neo4j Fundamentals](https://graphacademy.neo4j.com/courses/neo4j-fundamentals/?utm_source=Marketo&utm_medium=Email&utm_campaign=MaSuOB-Global-&utm_content=---&ref=EmailQuickLinks&mkt_tok=NzEwLVJSQy0zMzUAAAGVvPnKaqeSEuvPVVv30eMNI6SVqR4Vfgo2NceMOslYfW1OEZtkHMDn4yB2rwztB0LMevi_K5qG_YSO5CS0dVbV58SxHL1Q8-CQ3RHPU9aT_eiw8I0)
     - graph theory
